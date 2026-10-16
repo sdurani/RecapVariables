@@ -49,6 +49,21 @@ public class Main {
         movies.add("Obsession");
         System.out.println(movies);
 
+        // IN CLASS EXERCISE ----->
+
+//        double moneyReceived = 100;
+//        boolean isInvited; // default is false, do NOT need to assign a value
+//        if (moneyReceived < 50) {
+//            isInvited = false;
+//        } else if (moneyReceived > 200) {
+//            isInvited = true;
+//            String thankYouNote = "I love you!";
+//            System.out.println(thankYouNote);
+//        } else {
+//            isInvited = true;
+//        }
+
+
 
     }
 
